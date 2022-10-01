@@ -1,13 +1,13 @@
 {
-    "wait": "_Sedang Di Proses_",
+    "wait": "_fon to tann MP trete demand ou an",
     "error": {
-        "Iv": "Link yang kamu berikan tidak valid",
+        "Iv": "Lien ou voye a pa valid",
         "api": "Maaf terjadi kesalahan"
     },
-    "OnlyGrup": "Perintah ini hanya bisa digunakan di grup",
-    "OnlyPM": "Perintah ini hanya bisa digunakan di private message",
-    "GrupAdmin": "Perintah ini hanya bisa digunakan oleh Admin Grup",
-    "BotAdmin": "Bot Harus menjadi admin",
-    "OnlyOwner": "Perintah ini hanya dapat digunakan oleh owner bot",
-    "OnlyPrem": "Perintah ini khusus member premium"
+    "OnlyGrup": "komand sa c self nn group li k itilize",
+    "OnlyPM": "komand sa c selman pou desan prive",
+    "GrupAdmin": "selman adm yo ki k use option sa",
+    "BotAdmin": "folk boy la admin",
+    "OnlyOwner": "selman propriyete a ki k use komand sa",
+    "OnlyPrem": "selman moun ki gen premium yo"
 }
